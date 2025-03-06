@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"go_todo_app/model"
-	"go_todo_app/usecase"
+	"go_rest_api/model"
+	"go_rest_api/usecase"
 	"net/http"
 	"os"
 	"time"
